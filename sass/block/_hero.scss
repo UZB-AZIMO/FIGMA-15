@@ -1,0 +1,23 @@
+.hero{
+    margin-top: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    &__btn{
+        background-color: white;
+        padding: 10px;
+        border-radius: 10px;
+        font-size: 14px;
+        border: 1px solid #ddd;
+    }
+    .yellow{
+       background-color: yellow; 
+       font-weight: 600;
+    }
+    .xitoy{
+        background-color: #ddd5;
+    }
+    .fa-star{
+        color: yellow;
+    }
+}
