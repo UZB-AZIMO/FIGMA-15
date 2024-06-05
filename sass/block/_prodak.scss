@@ -1,0 +1,8 @@
+.prodak{
+    margin-top: 50px;
+    &__wrapper{
+        display: flex;
+        flex-wrap: wrap;
+        border: 1px solid red;
+    }
+}

@@ -21,3 +21,16 @@
         color: yellow;
     }
 }
+
+
+
+
+
+@media (
+    max-width:950px) {
+    .hero{
+        .btn__bag{
+            display: none;
+           }
+    }
+}
